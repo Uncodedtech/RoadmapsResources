@@ -10,8 +10,8 @@
 * [An interactive git visualization to challenge and educate!](https://github.com/Uncodedtech/learnGitBranching)
 * [📙 Amazon Web Services — a practical guide](https://github.com/Uncodedtech/og-aws)
 * [How to systematically secure anything: a repository about security engineering](https://github.com/Uncodedtech/how-to-secure-anything)
+* [Web Security Basics](https://github.com/Uncodedtech/web-security-basics)
 * [A complete computer science study plan to become a software engineer.](https://github.com/Uncodedtech/coding-interview-university#coding-question-practice)
-
 
 
 ------------------------------------------------------------------
