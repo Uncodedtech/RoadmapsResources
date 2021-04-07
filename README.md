@@ -12,6 +12,9 @@
 * [How to systematically secure anything: a repository about security engineering](https://github.com/Uncodedtech/how-to-secure-anything)
 * [Web Security Basics](https://github.com/Uncodedtech/web-security-basics)
 * [A complete computer science study plan to become a software engineer.](https://github.com/Uncodedtech/coding-interview-university#coding-question-practice)
+* [30 seconds of code](https://github.com/Uncodedtech/30-seconds-of-code)
+* [You Dont Know JS](https://github.com/Uncodedtech/You-Dont-Know-JS)
+* [Master the command line](https://github.com/Uncodedtech/the-art-of-command-line)
 
 
 ------------------------------------------------------------------
