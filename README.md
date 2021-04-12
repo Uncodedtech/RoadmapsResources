@@ -21,6 +21,7 @@
 * [DevOps resources](https://github.com/Uncodedtech/devops-resources)
 * [📝 An awesome Data Science repository to learn and apply for real world problems](https://github.com/Uncodedtech/awesome-datascience)
 * [Machine learning List of all the lessons learned, best practices...](https://github.com/Uncodedtech/Machine-Learning-Links-And-Lessons-Learned)
+* [Incredible Pytorch](https://github.com/Uncodedtech/the-incredible-pytorch)
 * [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
 * [Flutter Resources](https://github.com/Uncodedtech/awesome-flutter)
 * [Security tester's companion](https://github.com/Uncodedtech/SecLists)
