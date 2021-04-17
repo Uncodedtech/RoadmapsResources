@@ -27,6 +27,9 @@
 * [Security tester's companion](https://github.com/Uncodedtech/SecLists)
 * [Resources for bug bounty hunters](https://github.com/Uncodedtech/Resources-for-Beginner-Bug-Bounty-Hunters)
 * [List of useful payloads & bypass for web app security](https://github.com/Uncodedtech/PayloadsAllTheThings)
+* [All Algorithms implemented in Python](https://github.com/Uncodedtech/Python)
+* [All algorithms implemented in Javascript](https://github.com/Uncodedtech/Javascript)
+
 
 ------------------------------------------------------------------
 
