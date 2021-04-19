@@ -12,9 +12,27 @@
 
 ## Resources
 
-### DS-Algo
+
+#### Table of contents:
+
+- [DS and Algo](#ds-and-algo)
+- [Algorithms](#algorithms)
+- [Git](#git)
+- [Cloud](#cloud)
+- [Devops](#devops)
+- [Javascript](#javascript)
+- [Web Security](#web-security)
+- [Data Science](#data-science)
+- [Others](#others)
+
+### DS and Algo
 
 * [All Data Structures and Algorithms in - C/C++/Py... ](https://github.com/Uncodedtech/NeoAlgo)
+
+<div align="right">
+    <b><a href="#table-of-contents">⬆ Back To Top
+    </a></b>
+</div>
 
 -------------------------------
 
@@ -23,17 +41,32 @@
 * [All Algorithms implemented in Python](https://github.com/Uncodedtech/Python)
 * [All algorithms implemented in Javascript](https://github.com/Uncodedtech/Javascript)
 
+<div align="right">
+    <b><a href="#table-of-contents">⬆ Back To Top
+    </a></b>
+</div>
+
 -------------------------------
 
 ### Git
 
 * [An interactive git visualization to challenge and educate!](https://github.com/Uncodedtech/learnGitBranching)
 
+<div align="right">
+    <b><a href="#table-of-contents">⬆ Back To Top
+    </a></b>
+</div>
+
 -------------------------------
 
 ### Cloud 
 * [📙 Amazon Web Services — a practical guide](https://github.com/Uncodedtech/og-aws)
 * [Google Cloud](https://github.com/Uncodedtech/google-cloud-4-words)
+
+<div align="right">
+    <b><a href="#table-of-contents">⬆ Back To Top
+    </a></b>
+</div>
 
 --------------------------------
 
@@ -42,12 +75,22 @@
 * [DevOps resources](https://github.com/Uncodedtech/devops-resources)
 * [docker resources](https://github.com/Uncodedtech/dockerlabs)
 
+<div align="right">
+    <b><a href="#table-of-contents">⬆ Back To Top
+    </a></b>
+</div>
+
 --------------------------------
 
 ### Javascript
 
 * [30 seconds of code](https://github.com/Uncodedtech/30-seconds-of-code)
 * [You Dont Know JS](https://github.com/Uncodedtech/You-Dont-Know-JS)
+
+<div align="right">
+    <b><a href="#table-of-contents">⬆ Back To Top
+    </a></b>
+</div>
 
 --------------------------------
 
@@ -59,11 +102,21 @@
 * [Web Security Basics](https://github.com/Uncodedtech/web-security-basics)
 * [List of useful payloads & bypass for web app security](https://github.com/Uncodedtech/PayloadsAllTheThings)
 
+<div align="right">
+    <b><a href="#table-of-contents">⬆ Back To Top
+    </a></b>
+</div>
+
 --------------------------------
 
 ### App dev
 
 * [Flutter Resources](https://github.com/Uncodedtech/awesome-flutter)
+
+<div align="right">
+    <b><a href="#table-of-contents">⬆ Back To Top
+    </a></b>
+</div>
 
 ----------------------------------
 
@@ -73,12 +126,22 @@
 * [Machine learning List of all the lessons learned, best practices...](https://github.com/Uncodedtech/Machine-Learning-Links-And-Lessons-Learned)
 * [Incredible Pytorch](https://github.com/Uncodedtech/the-incredible-pytorch)
 
+<div align="right">
+    <b><a href="#table-of-contents">⬆ Back To Top
+    </a></b>
+</div>
+
 ----------------------------------------
 
 ### Others
 
 * [Master the command line](https://github.com/Uncodedtech/the-art-of-command-line)
 * [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
+
+<div align="right">
+    <b><a href="#table-of-contents">⬆ Back To Top
+    </a></b>
+</div>
 
 ------------------------------------------------------------------
 -----------------------------------------------
