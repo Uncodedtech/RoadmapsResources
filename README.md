@@ -1,6 +1,6 @@
 # RoadmapsResources
 
-> **This repo includes links to important repositories holding different developer roadmaps and resources.** 
+> **This repository includes links to *forked* repositories which hold a list of different developer roadmaps and resources.** 
 
 ## Roadmaps
 
@@ -81,4 +81,19 @@
 * [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
 
 ------------------------------------------------------------------
+-----------------------------------------------
+
+## Maintainer
+
+* [Suraj Verma](https://github.com/surajv311)
+
+#### Parent repository
+* [one4All](https://github.com/Surajv311/one4All)
+
+## License
+
+* [MIT](LICENSE)
+
+---------------------------
+
 
