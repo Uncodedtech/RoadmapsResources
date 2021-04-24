@@ -129,6 +129,7 @@
 * [Read Research Papers (website)](https://myw3schools.github.io/) & you can also follow [manjunath5496](https://github.com/manjunath5496) (for research papers sources). 
 * [Master the command line](https://github.com/Uncodedtech/the-art-of-command-line)
 * [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
+* [Patterns of Scalable & Reliable Large-Scale Systems](https://github.com/Uncodedtech/awesome-scalability)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
