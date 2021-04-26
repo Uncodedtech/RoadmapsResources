@@ -130,6 +130,7 @@
 * [Master the command line](https://github.com/Uncodedtech/the-art-of-command-line)
 * [How tech-savvy organizations around the world practice Site Reliability Engineering (SRE)](https://github.com/Uncodedtech/howtheysre)
 * [Patterns of Scalable & Reliable Large-Scale Systems](https://github.com/Uncodedtech/awesome-scalability)
+* [Quantum Machine Learning](https://github.com/Uncodedtech/awesome-quantum-machine-learning)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
