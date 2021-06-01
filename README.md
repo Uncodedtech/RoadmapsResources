@@ -132,6 +132,7 @@
 * [Patterns of Scalable & Reliable Large-Scale Systems](https://github.com/Uncodedtech/awesome-scalability)
 * [Quantum Machine Learning](https://github.com/Uncodedtech/awesome-quantum-machine-learning)
 * [Software and architecture related design patterns](https://github.com/Uncodedtech/awesome-design-patterns)
+* [A-Z Resources](https://github.com/Uncodedtech/A-to-Z-Resources-for-Students)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
