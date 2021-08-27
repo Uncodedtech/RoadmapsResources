@@ -134,6 +134,7 @@
 * [Software and architecture related design patterns](https://github.com/Uncodedtech/awesome-design-patterns)
 * [A-Z Resources](https://github.com/Uncodedtech/A-to-Z-Resources-for-Students)
 * [Applied ML](https://github.com/Uncodedtech/applied-ml)
+* [Influential CS Books](https://github.com/Uncodedtech/influential-cs-books)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
