@@ -28,6 +28,7 @@
 ### DS and Algo
 
 * [All Data Structures and Algorithms in - C/C++/Py... ](https://github.com/Uncodedtech/NeoAlgo)
+* [ CS Video Courses ](https://github.com/Uncodedtech/cs-video-courses)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
