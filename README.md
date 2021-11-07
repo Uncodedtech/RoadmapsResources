@@ -72,6 +72,7 @@
 * [DevOps resources](https://github.com/Uncodedtech/devops-resources)
 * [docker resources](https://github.com/Uncodedtech/dockerlabs)
 * [devops-exercises](https://github.com/Uncodedtech/devops-exercises)
+* [Site Reliability Engineer Interview Preparation Guide](https://github.com/Uncodedtech/sre-interview-prep-guide)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
