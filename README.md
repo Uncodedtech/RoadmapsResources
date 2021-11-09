@@ -138,6 +138,7 @@
 * [A-Z Resources](https://github.com/Uncodedtech/A-to-Z-Resources-for-Students)
 * [Applied ML](https://github.com/Uncodedtech/applied-ml)
 * [Influential CS Books](https://github.com/Uncodedtech/influential-cs-books)
+* [Dive into Web3](https://github.com/Uncodedtech/useWeb3)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
