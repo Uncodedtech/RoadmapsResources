@@ -139,7 +139,7 @@
 * [Applied ML](https://github.com/Uncodedtech/applied-ml)
 * [Influential CS Books](https://github.com/Uncodedtech/influential-cs-books)
 * [Dive into Web3](https://github.com/Uncodedtech/useWeb3)
-* [Awesome MLOps]P(https://github.com/Uncodedtech/awesome-mlops)
+* [Awesome MLOps](https://github.com/Uncodedtech/awesome-mlops)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
