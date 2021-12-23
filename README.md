@@ -140,6 +140,8 @@
 * [Influential CS Books](https://github.com/Uncodedtech/influential-cs-books)
 * [Dive into Web3](https://github.com/Uncodedtech/useWeb3)
 * [Awesome MLOps](https://github.com/Uncodedtech/awesome-mlops)
+* [DevSecOps Library](https://github.com/Uncodedtech/DevSecOps)
+
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
