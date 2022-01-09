@@ -141,6 +141,7 @@
 * [Dive into Web3](https://github.com/Uncodedtech/useWeb3)
 * [Awesome MLOps](https://github.com/Uncodedtech/awesome-mlops)
 * [DevSecOps Library](https://github.com/Uncodedtech/DevSecOps)
+* [System Design Resources](https://github.com/Uncodedtech/awesome-system-design)
 
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
