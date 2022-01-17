@@ -142,6 +142,7 @@
 * [Awesome MLOps](https://github.com/Uncodedtech/awesome-mlops)
 * [DevSecOps Library](https://github.com/Uncodedtech/DevSecOps)
 * [System Design Resources](https://github.com/Uncodedtech/awesome-system-design)
+* [Interview Guide](https://github.com/Uncodedtech/mega-interview-guide)
 
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
