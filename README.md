@@ -84,6 +84,7 @@
 
 * [30 seconds of code](https://github.com/Uncodedtech/30-seconds-of-code)
 * [You Dont Know JS](https://github.com/Uncodedtech/You-Dont-Know-JS)
+* [Free Resouces to Javascript](https://www.scaler.com/topics/javascript/e)
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
     </a></b>
